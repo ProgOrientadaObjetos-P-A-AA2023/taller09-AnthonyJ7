@@ -126,7 +126,7 @@ public class Ejecutor {
 
             sc.nextLine();
 
-            System.out.println("Desea ingresar otro tipo de prestamo?:");
+            System.out.println("Desea ingresar otro usuario?:");
 
             String res = sc.nextLine();
 
